@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-This project performs **Exploratory Data Analysis (EDA)** on the Diwali Sales dataset to understand customer purchasing behavior during the Diwali festival. The analysis aims to identify patterns in customer demographics and purchasing trends to derive useful business insights.
+This project performs**Data cleaning and** **Exploratory Data Analysis (EDA)** on the Diwali Sales dataset to understand customer purchasing behavior during the Diwali festival. The analysis aims to identify patterns in customer demographics and purchasing trends to derive useful business insights.
 
 ---
 
